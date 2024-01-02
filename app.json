@@ -9,7 +9,7 @@
         "Bot"
     ],
     "logo": "https://telegra.ph/file/a251cb92f717d021f7fab.jpg",
-    "repository": "https://github.com/Benchamxd/Ai-Bot",
+    "repository": "https://github.com/MY-HERO-OP/Op-Ai-Bot",
     "success_url": "/",
     "env": {
         "TG_BOT_TOKEN": {
@@ -24,7 +24,7 @@
     "formation": {
         "web": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     },
     "image": "heroku/php"
